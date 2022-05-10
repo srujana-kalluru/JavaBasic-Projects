@@ -1,0 +1,6 @@
+[submodule "JavaBasic-Projects-Hashing"]
+	path = JavaBasic-Projects-Hashing
+	url = https://github.com/creationk/JavaBasic-Projects-Hashing.git
+[submodule "Java-Collections-Projects"]
+	path = Java-Collections-Projects
+	url = https://github.com/creationk/Java-Collections-Projects.git
