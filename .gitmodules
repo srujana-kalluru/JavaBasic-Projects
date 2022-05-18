@@ -4,3 +4,6 @@
 [submodule "Java-Collections-Projects"]
 	path = Java-Collections-Projects
 	url = https://github.com/creationk/Java-Collections-Projects.git
+[submodule "JavaBasic-Projects-OOPS"]
+	path = JavaBasic-Projects-OOPS
+	url = https://github.com/creationk/JavaBasic-Projects-OOPS
