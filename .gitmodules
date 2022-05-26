@@ -13,3 +13,6 @@
 [submodule "Java-InnerClasses"]
 	path = Java-InnerClasses
 	url = https://github.com/creationk/Java-InnerClasses.git
+[submodule "MultiThreading-Projects"]
+	path = MultiThreading-Projects
+	url = https://github.com/creationk/MultiThreading-Projects.git
