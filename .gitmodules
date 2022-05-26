@@ -13,3 +13,6 @@
 [submodule "Java-Exception-Handling"]
 	path = Java-Exception-Handling
 	url = https://github.com/creationk/Java-Exception-Handling.git
+[submodule "Java-InnerClasses"]
+	path = Java-InnerClasses
+	url = https://github.com/creationk/Java-InnerClasses.git
