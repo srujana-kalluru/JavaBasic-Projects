@@ -7,9 +7,6 @@
 [submodule "JavaBasic-Projects-OOPS"]
 	path = JavaBasic-Projects-OOPS
 	url = https://github.com/creationk/JavaBasic-Projects-OOPS
-[submodule "JavaBasic-Projects-InnerClasses"]
-	path = JavaBasic-Projects-InnerClasses
-	url = https://github.com/creationk/JavaBasic-Projects-InnerClasses
 [submodule "Java-Exception-Handling"]
 	path = Java-Exception-Handling
 	url = https://github.com/creationk/Java-Exception-Handling.git
