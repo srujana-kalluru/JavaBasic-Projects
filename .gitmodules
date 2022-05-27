@@ -16,3 +16,6 @@
 [submodule "MultiThreading-Projects"]
 	path = MultiThreading-Projects
 	url = https://github.com/creationk/MultiThreading-Projects.git
+[submodule "Java-AnonymousClassesAndLambda"]
+	path = Java-AnonymousClassesAndLambda
+	url = https://github.com/creationk/Java-AnonymousClassesAndLambda
