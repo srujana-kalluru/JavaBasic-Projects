@@ -19,3 +19,6 @@
 [submodule "Java-AnonymousClassesAndLambda"]
 	path = Java-AnonymousClassesAndLambda
 	url = https://github.com/creationk/Java-AnonymousClassesAndLambda
+[submodule "Java-NestedClasses"]
+	path = Java-NestedClasses
+	url = https://github.com/creationk/Java-NestedClasses.git
