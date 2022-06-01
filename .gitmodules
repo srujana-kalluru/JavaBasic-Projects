@@ -22,3 +22,6 @@
 [submodule "Java-NestedClasses"]
 	path = Java-NestedClasses
 	url = https://github.com/creationk/Java-NestedClasses.git
+[submodule "AccessModifiers"]
+	path = AccessModifiers
+	url = https://github.com/creationk/AccessModifiers.git
