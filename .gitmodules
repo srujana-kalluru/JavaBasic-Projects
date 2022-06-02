@@ -25,3 +25,6 @@
 [submodule "AccessModifiers"]
 	path = AccessModifiers
 	url = https://github.com/creationk/AccessModifiers.git
+[submodule "JavaBasic-Enums"]
+	path = JavaBasic-Enums
+	url = https://github.com/creationk/JavaBasic-Enums
