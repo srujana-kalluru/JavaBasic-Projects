@@ -28,3 +28,6 @@
 [submodule "JavaBasic-Enums"]
 	path = JavaBasic-Enums
 	url = https://github.com/creationk/JavaBasic-Enums
+[submodule "JavaBasic-InitializationBlocks"]
+	path = JavaBasic-InitializationBlocks
+	url = https://github.com/creationk/JavaBasic-InitializationBlocks
