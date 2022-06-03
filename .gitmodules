@@ -31,3 +31,6 @@
 [submodule "JavaBasic-InitializationBlocks"]
 	path = JavaBasic-InitializationBlocks
 	url = https://github.com/creationk/JavaBasic-InitializationBlocks
+[submodule "JavaBasic-Generics"]
+	path = JavaBasic-Generics
+	url = https://github.com/creationk/JavaBasic-Generics
